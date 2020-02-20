@@ -26,11 +26,11 @@ Projeto desenvolvido: jogo de velocidade de digitação.
 * JavaScript - interatividade do usuário com o navegador
 * jQuery - tradutor de código JavaScript e adapta para todos os navegadores. E tambem ajuda com a produtividade (escreve menos e faz mais).
 
-![jQuery_telainicial](J:\GitHub\cursoalura-jquery\imagens_readme\jQuery_telainicial.png)
+![jQuery_telainicial](https://github.com/bia-rodrig/cursoalura-jquery/blob/master/imagens_readme/jQuery_telainicial.png)
 
 
 
-![](J:\GitHub\cursoalura-jquery\imagens_readme\jQuery_jogoplacar.png)
+![](https://github.com/bia-rodrig/cursoalura-jquery/blob/master/imagens_readme/jQuery_jogoplacar.png)
 
 
 
