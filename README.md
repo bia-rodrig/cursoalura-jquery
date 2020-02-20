@@ -19,7 +19,7 @@ Projeto desenvolvido: jogo de velocidade de digitação.
 * Same Origin Policy e Cors;
 * Plugins do jQuery  (slider, selectize, tooltipster);
 
-
+## Sobre o jQuery
 
 * HTML - Serve para estruturar a página
 * CSS - para estilizar
